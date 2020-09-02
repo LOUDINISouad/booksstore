@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n  <title>loudini.books</title>\n    <link rel=\"stylesheet\" href=\"style.css\">\n      <meta charset = \"utf-8\">\n       <meta name = \"description\"content=\"welcome to my bookstore\n       You will find everything you are looking for\"> \n</head>\n  \n  <body>\n\n   <div class =\"container\">\n     \t<header>\n         \t  \n        <div class= \"nav-bar\">\n        \t  <ul>\n              <li ><b><a   href=\"#HOME\"> HOME </a></li></b>\n               <li ><b><a   href=\"file:///E:/Sublime%20Text%203/registration.html?\" target=\"blank\"> REGISTER </a></li></b>\n           <li> <b> <a href =\"file:///E:/Sublime%20Text%203/login.html\" target=\"blank\"> LOGIN </a></b></li>\n            <li><b><a href=\"#Novels And Stories\" >   Novels And Stories </a></li></b>\n            <li><b><a href=\"#Dictionaries\">  Dictionaries</a></li></b>\n               <li><b><a href=\"#Contact\">  Contact </a></li> </ul></b>\n               </div>\n       <div class=\"hero\">\n       \t<div id=\"HOME\">\n       \t   <h1> <i> welcome to My books store,<br> bring your coffee and enjoy the shopping  </h1></i>\n        </div>  \n    </header> \n       <div class=\"services\">\n       \t\t<div id=\"Novels And Stories\"> </div>\n       \t <h2 class=\"services title\" > Novels And Stories  </h2>\n       \t \n       \t  <div class=\"service\">\n       \t  \t<figure>\n       \t\t<img src=\"images/aklitmaan.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n\n        <tr><td> د.احمد خيري  العمري    </td><td> <b>الكاتب     </b></td></tr>\n        <tr><td>   650   </td><td> <b> الصفحات    </b>  </td></tr>   <br>\n        \t \n        <tr><td> <mark> 4000DA </mark> </td><td>  <b>  ثمن   </b>   </td></tr>  <br>\n        <tr><td> 28    </td><td>  <b>  الكمية   </b> </td></tr>  <br>\n         <tr><td>  عصير  الكتب</td> <td>  <b> دار النشر  </b> </td></tr>\n        <tr> <td> الكتاب ليس موجها للملحدين.\nعلى الأقل ليس للملحدين الذين حسموا أمرهم بالإلحاد دون أي أسئلة إضافية أو مزيدا من البحث.\nوهو أيضا ليس للمؤمنين الذين يعتقدون أنهم يملكون كل الأجوبة \" النموذجية\" التي لا تحتاج لتحديث أو تحوير...\nولا للمؤمنين الذين يعتقدون أن لا أسئلة هناك أصلا.\nباختصار: هو ليس للمطمئنين عموما، من الجانبين النقيضين.\nلا لِمَنْ اطمأن إلى أن إلحاده هو الوضع الصحيح، ولا لِمَنْ اطمأن إلى إيمانه وثباته وعدم حاجته إلى حصانة \" عقلية\" من نوع ما.\nلا يستوي هذان النقيضان بالتأكيد، والثاني منهما \" نغبطه\" على ما هو فيه..\n   <br>لكن هذا لن يغير من حقيقة أن الكتاب ليس موجها له أيضا...</td><td> <b> عن الكتاب   </b></td></tr>\n      \n\n        <caption>  <i> <b>ليطمئن   عقلي     </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div class=\"service\">\n\n         \t<figure>\n       \t<img  src=\"images/chfrabilal.jpg\"width=\"220px\" height=\"266px\";>\n       \t<table>\n         <tr><td>  د..احمد خيري  العمري  </td></tr>\n              \n        <tr><td> 380 </td></tr>   <br> \n        <tr><td> <mark> 2000DA </mark>  </td></tr>  <br>\n          \n        <tr><td>  32   </td> </tr>  <br>\n         <tr><td>  عصير  الكتب</td></tr>\n        \t\n    <tr><td> الرواية  توضح   الصورة  البشعة  للعنصرية  و مفهومها فهي تبين لك   أهمية  أن  تكون  صاحب   مبدأ ...أن  تحارب  من  أجل  أن  تترك   أثرا ...أن لا تذهب   دون  أن  يذكرك ...أن تحارب   حتى  تنتصر  ...معنى   الحب  وماهو الحب   ...و  من  هم  جديرون بأن  نحبهم  </td></tr> \n           <caption>  <i> <b> شيفرة بلال   </i> </b>  </caption>\n\n       \t</table>\n       \t   </figure>\n       \t  </div>\n\n           <div class=\"service\">\n           \t<figure>\n           \t <img src=\"images/qualbi.jpg\"width=\"220px\" height=\"266px\";>\n           \t <br>\n           \t <br>\n           \t <br>\n           \t   \t<table>\n         <tr><td>  د. أدهم الشرقاوي   </td></tr>\n        <tr><td>  338   </td></tr>    \n        <tr><td> <mark> 1500DA </mark> </td></tr> \n        <tr><td> 22  </td></tr>  \n          <tr><td>  عصير  الكتب      </td></tr>\n        <tr><td>الرواية في غاية الروعة وتكمن روعتها في النقاشات التي تدور بين هشام وماهر وكريم ووعد.\nكريم شاب في السنة الاخيره من الجامعه كل يوم يذهب إلى الجامعه عن طريق الحافله ويجلس بجانب فتاة اسمها وعد ويحادثها بأفكاره.\nالأفكار عباره عن محاورات ثقافيه جميله جدا ومتنوعه شيء يتحدث عن الحب وشيء عن الراسمالية وشيء عن البلاء وعن الالحاد.\n\n والميزة فيها البساطة التي استخدمها الكاتب والتي سهلت وصول الافكار للعقل قم للقلب رغم تعقديها حقيقة.  </td> </tr>\n          <caption>  <i> <b> ليطمئن قلبي  </b> </i> </caption>\n           </table>\n\n           </figure>\n       \t      </div>\n         \n            </services >\n\n  <div class=\"services\">\n       \t  <div class=\"service\">\n       \t  \t<figure>\n       \t\t<img src=\"images/subbtle.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n\n        <tr><td> د.مارك مانسون   </td></tr>\n        <tr><td>   271   </td></tr>   <br>\n        \t \n        <tr><td> <mark> 1200DA </mark></td></tr>  <br>\n        <tr><td> 26    </td></tr>  <br>\n         <tr><td>   دار التنوير       </td></tr>\n        <tr> <td>  فن اللامبالاة لعيش حياة تخالف المألوف هو كتاب رائع في التنمية البشرية للمؤلف العالمي الشهير مارك مانسون والذي يتحدّث فيهِ على أنّ الإنسان لا يجب بالضرورة أن يكونَ إيجابيّاً طوال الوقت، وأنّ المفتاح إلى بشر أكثر قوة وسعادة كامن في التعامل مع الشدائد تعاملاً أفضل، فيما يلي تلخيص كتاب فن اللامبالاة. </td></tr>\n      \n\n        <caption>  <i> <b>  فن  اللامبالاة     </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div class=\"service\">\n\n         \t<figure>\n       \t<img  src=\"images/fiqualbi.jpg\"width=\"220px\" height=\"266px\";>\n       \t<table>\n         <tr><td>  د. خولة  حمدي    </td></tr>\n              \n        <tr><td> 385 </td> </tr>   <br> \n        <tr><td> <mark> 1600DA  </mark> </td></tr>  <br>\n          \n        <tr><td>  46   </td>  </tr>  <br>\n         <tr><td> دار الكيان    </td> </tr>\n        \t\n    <tr><td>   وقصة الرواية بحسب الكاتبة تنقل بحيادية قصة حقيقية لأبطال حقيقيين (ريما المسلمة وجاكوب اليهودي الذي تبنّاها بعد وفاة والدتها، وزوجته تانيا، وولداهما سارا وباسكال، وكذلك ندى اليهودية وأخوها المسيحي وبقية عائلتها، أحمد المسلم المقاوم اللبناني وأخته سماح، وصديقه المقرّب حسان، الذي خطب ندى بعد اختفاء أحمد، سونيا وابنتها دانة، راشيل وزوجها سيئ الأخلاق، وغيرهم كثر)، ولكن ما لبثت أن تخلت الكاتبة عن حياديتها، وبدأت تعرض أدلة لإقناع القارئ بدينها، حتى لو كانت قصصًا لإسلام أشخاص على أيدي أبطال روايتها.  </td></tr> \n         \n\n         <caption> <i> <b> في  قلبي  أنثى  عبرية  </b> </i> </caption>\n\n\n       \t</table>\n       \t   </figure>\n       \t  </div>\n\n           <div class=\"service\">\n           \t<figure>\n           \t <img src=\"images/yikolaland.jpg\"width=\"220px\" height=\"260px\";>\n           \t <br>\n           \t <br>\n           \t <br>\n           \t   \t<table>\n         <tr><td>  د. أدهم الشرقاوي   </td></tr>\n        <tr><td>  288  </td></tr>    \n        <tr><td><mark> 700DA </mark> </td></tr> \n        <tr><td> 18 </td></tr>  \n          <tr><td>  عصير  الكتب    </td> </tr>\n        <tr><td> هي أرض أهلها يتعامل بوحدات الذكاء، فأنت تعمل ولا يتم محاسبتك نقدًا بل تزيد وحدات الذكاء عندك وإذا ما اشتريت شيئًا فإنها تنقص من ذكاءك   بطل هذه الرواية هو خالد شاب ذو 28 عاما من قرية البهوفريك يتقدم لخطبة فتاة للمرة الثامنة ويقبل بالرفض من والدها بداعي أنه يريد لابنته شابا غير عادي، يحاول بعدها خالد القيام بشيء يتسنى له من خلاله الوصول لشيء يرضي باله. يقرر القيام برحلة في سرداب فوريك المتواجد بالقرية ذلك السرداب الذي تحوم حوله إشاعات وحقائق عديدة،   </td></tr>\n\n\n\n          <caption>  <i> <b> أرض زيكولا       </b> </i> </caption>\n           </table>\n\n           </figure>\n       \t      </div>\n         \n            </services >\n\n\n       <div class=\"services\">\n       \t  <div id=\"novel1\">\n       \t  \t<figure>\n       \t\t<img src=\"images/parceque.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n\n        <tr><td>  l'auteur </td><td> <b>  guillaume MUSSO </b></td></tr>\n        <tr><td>  N°  </td><td> <b>    425       </b>  </td></tr>   <br>\n        \t \n        <tr><td> prix </td><td>  <b> <mark>     1600DA       </mark> </b> </td></tr>  <br>\n        <tr><td>   quantité\t\t </td><td>  <b>     33       </b> </td></tr>  <br>\n         <tr><td> l'édition   </td> <td>  <b>    pocket          </b> </td></tr>\n        <tr> <td>  <b> résumé  </b> </td><td>    Layla, 5 ans disparaît dans un centre commercial alors qu'elle est sous la surveillance de sa nounou. Sa mère, Nicole (violoniste mystérieuse) et son père, Mark (célèbre psychologue), sont frappés de plein fouet par ce drame. Ils réagissent tous deux de façon totalement différente. En effet, Nicole parvient à refaire surface malgré la souffrance, essayant de se projeter dans l'avenir, tandis que Mark sombre et se renferme face à la détresse qui l'envahit. Sa vie s'est arrêtée au moment de cette disparition.          </td></tr>\n      \n\n        <caption>  <i> <b>  parceque je t'aime  </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div id=\"novel2\">\n\n         \t<figure>\n       \t<img  src=\"images/etapres.jpg\"width=\"220px\" height=\"296px\";>\n       \t<table>\n         \n        <tr><td>   guillaume MUSSO </td></tr>\n        <tr>><td>    507        </td></tr>   <br>\n        \t \n        <tr><td>   <mark>  2200DA    </mark>    </td></tr>  <br>\n        <tr><td>     40     </td></tr>  <br>\n         <tr> <td>      pocket          </td></tr>\n          <tr><td>   À huit ans, Nathan s’est noyé en plongeant dans un lac pour sauver une fillette.\nArrêt cardiaque, tunnel de lumière, mort clinique. Et puis, contre toute attente, de nouveau la vie.\n\nVingt ans plus tard, Nathan est devenu un brillant avocat new-yorkais.\nMeurtri par son divorce, il s’est barricadé dans son travail. C’est alors qu’un mystérieux médecin fait irruption dans son existence.\nIl est temps pour lui de découvrir pourquoi il est revenu </td></tr>      \n\n          \t<caption> <i> <b> et aprés </b> </i> </caption>\n       \t</table>\n       \t   </figure>\n       \t  </div>\n\n           <div id=\"novel3\">\n           \t<figure>\n           \t <img src=\"images/sauvemoi.jpg\"width=\"220px\" height=\"296px\";>\n           \t <br>\n           \t <br>\n           \n          <table>\n\n        <tr><td>   guillaume MUSSO </td></tr>\n        <tr><td>   498       </td></tr>   <br>\n        \t \n        <tr><td> <mark> 2300DA   </mark>     </td></tr>  \n        <tr><td>   34   </td></tr>  \n         <tr><td>      pocket   </td></tr>\n\n\n\n  <tr> <td>Un soir d’hiver en plein cœur de Broadway, Juliette, jolie Française de vingt-huit ans, croise la route de Sam, un jeune pédiatre new-yorkais. Par crainte de le décevoir, elle lui cache qu’elle multiplie les petits boulots en nourrissant des rêves d’actrice. Par peur de s’attacher, il prétend qu’il est marié alors que sa femme vient de mourir.\n\nMalgré ce double mensonge, ils vont s’aimer le temps d’un week-end intense, magique, inoubliable. Mais Juliette doit retourner à Paris et Sam ne sait pas trouver les mots pour la garder à ses côtés.\nA peine l’avion de la jeune femme a-t-il décollé, qu’il explose en plein ciel.\nPourtant, leur histoire est loin d’être terminée…            </td> </tr>\n\n\n          <caption>  <i> <b> Sauve Moi </b> </i> </caption>\n           </table>\n\n           </figure>\n       \t      </div>\n         \n            </services >\n<br> <br>\n    \n        \n       <div class=\"services\">\n        \n       \t       <div class=\"service\">\n\n       \t  \t<figure>\n       \t\t<img src=\"images/bissat rih.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n\n        <tr><td> كامل  كيلاني </td><td> <b>الكاتب     </b></td></tr>\n        <tr><td>  138  </td><td> <b> الصفحات    </b>  </td></tr>   <br>\n        \t \n        <tr><td> <mark> 250DA </mark> </td><td>  <b>  ثمن   </b>   </td></tr>  <br>\n        <tr><td> 64   </td><td>  <b>  الكمية   </b> </td></tr>  <br>\n         <tr><td> دار تلانتيقيت            </td> <td>  <b> دار النشر  </b> </td></tr>\n        <tr> <td> اعاش في قديم الزمان، سلطَان عظيم القدر والشأن، اسمه السلطَان «محمود». كان السلطان «محمود» معروفا — بين سلاطين الهند وملوكها — بالذكَاء ونفاذ الرأي وبُعْد النظَر ورجاحة التفكير، وبراعة التدبير. وكان — إلى جانب هذه الخصال الْحميدة — مفتونا باقتناء التحف النادرة، فما هي قصة هذا السلطان مع هذه التحف، وإلى أين سيذهب به حبه لهذه الأشياء؟!</td><td> <b> عن الكتاب   </b></td></tr>\n      \n\n        <caption>  <i> <b>     بساط الريح       </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div class=\"service\">\n               \n         \t<figure>\n       \t<img  src=\"images/chahrazad.jpg\"width=\"220px\" height=\"292px\";>\n       \t<table>\n         <tr><td> كامل  كيلاني  </td></tr>\n              \n        <tr><td>107 </td></tr>   <br> \n        <tr><td> <mark>200DA </mark>  </td></tr>  <br>\n          \n        <tr><td>  44   </td> </tr>  <br>\n         <tr><td>     دار تلانتيقيت             <td></tr>\n        \t \n    <tr><td> تدور أحداث القصة حول ملك عادل منصف يحمي رعيته، ولكنه يتفاجأ بخيانة زوجته فيقرر الانتقام منها، ولشدة صدمته عاش في الأوهام وقرر الانتقام من كل بني جنسها من النساء، إلى أن يلتقي بشهرزاد بنت الوزير التي أسرته بسعة اطلاعها وحسن حديثها فتغير الملك من حال إلى حال. </td></tr> \n           <caption>  <i> <b> شهرزاد بنت الوزير              </i> </b>  </caption>\n\n       \t</table>\n       \t   </figure>\n       \t  </div>\n     \n           <div class=\"service\">\n\n            \n           \t<figure>\n           \t <img src=\"images/hayben.jpg\"width=\"220px\" height=\"288px\";>\n           \t \n      \t    <table>\n         <tr><td> كامل  كيلاني   </td></tr>\n        <tr><td>  136   </td></tr>    \n        <tr><td> <mark> 250DA </mark> </td></tr> \n        <tr><td> 30  </td></tr>  \n          <tr><td>   دار تلانتيقيت     </td></tr>\n        <tr><td> القصة أن حي بن يقظان، الذي سميت القصة باسمه ألقى وهو طفل في جزيرة خالية من السكان، فأرضعته ظبية؛ وشب الفتى متوقد الذكاء عظيم المهارة، فكان يصنع حذاءه وأثوابه بنفسه من جلود الحيوان، ودرس النجوم، وشرَّح الحيوانات حية وميتة، حتى وصل في هذا النوع من المعرفة إلى أرقى ما وصل إليه أعظم المشتغلين بعلم الأحياء ثم انتقل من العلوم الطبيعية إلى الفلسفة وعلوم الدين؛ وأثبت لنفسه وجود خالق قادر على كل شيء؛ ثم عاش معيشة الزهاد، وحرم على نفسه أكل اللحم، واستطاع أن يتصل اتصالاً روحياً بالعقل الفعال </td> </tr>\n          <caption> <b> <i> حي  بن  يقظان   </i> </b> </caption>\n       <br>\n       <br>\n       <br>\n\n           </table>\n\n           </figure>\n       \t      </div>\n         \n            </services >\n\n \n       <div class=\"services\">\n       \t  <div class=\"service\">\n       \t  \t<figure>\n       \t\t<img src=\"images/nahla.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n\n        <tr><td> كامل  كيلاني  </td><td> <b>الكاتب     </b></td></tr>\n        <tr><td>  113  </td><td> <b> الصفحات    </b>  </td></tr>   <br>\n        \t \n        <tr><td> <mark>250DA </mark> </td><td>  <b>  ثمن   </b>   </td></tr>  <br>\n        <tr><td> 32 </td><td>  <b>  الكمية   </b> </td></tr>  <br>\n         <tr><td> ¨دار  تلانتيقيت       </td> <td>  <b> دار النشر  </b> </td></tr>\n        <tr> <td> كان صفاء وسعاد مبتهجين بما رأياه  من جمال الريف ,اذ أتاح لهما والدهما  أن يقضيا شطرا من العطلة الصيفية في مزرعته .\nوقد أعجبهما سحر الريف المتجدد و هواؤه النقي و مناظره الفاتنة , وفي هذا الجو المرح بين تلك المباهج الجميلة . وذا صباح خرج  صفاء وسعاد الى الحديقة و بينما هم جاثمين على بساط أطرق سمعهما صوت رقيق يناديهما في عذوبة وتودد... يا ترى ما الصوت الذي كان ينادي عليهما.؟؟</td><td> <b> عن الكتاب   </b></td></tr>\n      \n\n        <caption>  <i> <b> النحلة  العاملة    </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div class=\"service\">\n\n         \t<figure>\n       \t<img  src=\"images/taj.jpg\"width=\"220px\" height=\"266px\";>\n       \t<table>\n         <tr><td>  كامل  كيلاني   </td></tr>\n              \n        <tr><td> 140 </td></tr>   <br> \n        <tr><td> <mark> 250DA </mark>  </td></tr>  <br>\n          \n        <tr><td>  38   </td> </tr>  <br>\n         <tr><td>     دار تلانتيقيت      </td></tr>\n         <br><br>\n        \t\n    <tr><td> كان جميع اهالي \"البندقية\"يحبون \"انطونيو\" ويحترمونه لما عرف عنه من كرم وشجاعة ،كما كان له اصدقاء كثيرون يعزهم ويعزونه..ولكن اقرب الاصدقاء واعزهم على قلب \"انطونيو\"كان صديقا شابا اسمه\"بسانيو\"..وهو نبيل من طبقة نبلاء البندقية،الا انه كان صاحب ثروة بسيطة ،أضاعها وبددها بالاسراف الشديد على مظاهر حياته..وكلما كان يحتاج الى المزيد من النقود ليصرفها ،كان يلجأ الى صديقة \"انطونيو\" الذي كان لا يبخل عليه ابدا ويعاملة بكل كرم يليق به كصديق من اعز اصدقائة.</td></tr> \n           <caption>  <i> <b>  تاجر البندقية </i> </b>  </caption>\n         <br>\n       \t</table>\n       \t   </figure>\n       \t  </div>\n\n           <div class=\"service\">\n           \t<figure>\n           \t <img src=\"images/kalila.jpg\"width=\"220px\" height=\"266px\";>\n           \t <br>\n           \t <br>\n           \n           \t   \t<table>\n         <tr><td>    عبد الله  بن  المقفع      <td></tr>\n        <tr><td>  287   </td></tr>    \n        <tr><td> <mark> 250DA </mark> </td></tr> \n        <tr><td> 33  </td></tr>  \n          <tr><td>  دار  تلانتيقيت            </td></tr>\n          <br> <br>\n        <tr><td>      يعتبر كتاب كليلة و دمنة من أكثر الكتب العالمية شهرةً والتي لاقت اهتماماً واسعاً من قبل الدارسين والباحثين، وتُروَى قصة كتاب كليلة ودمنة على ألسنة الحيوانات والطيور، وهو كتاب قديم يعود إلى العصر العباسي، هندي الأصل، وقد كان في الأصل يُسمى بالفصول الخمسة، حيث قام عبد الله بن المقفع بترجمته من الفارسية إلى العربية، وأضاف عليه قصصاً أخرىرأ ا   </td> </tr>\n          <caption>  <i> <b> كليلة  و  دمنة       </b> </i> </caption>\n          <br>\n          <br>\n           </table>\n\n           </figure>\n       \t      </div>\n         \n            </services >\n\n         </services >\n\n\n       <div class=\"services\">\n       \t<div id=\" Dictionaries\"></div>\n       \t <h3 class= \"services title\">   Dictionairies </h3>\n\n       \t  <div id=\"Dictionare1\">\n       \t  \t<figure>\n       \t\t<img src=\"images/conjugaison.jpg\" width=\"220px\" ;height=\"180px\">\n       \t\t  <table>\n          <tr><td> <b> N°  </b> </td><td>  256   </td></tr>   <br>\n        <tr><td><b>  prix </td><td>  <b> <mark>     2400DA       </mark><b>  </td></tr>  <br>\n        <tr><td>   quantité\t\t<b>  </td><td>   37 </td></tr>  <br>\n         <tr><td>  <b>  l'édition  </b> </td> <td>  hatier  </td></tr>\n        <tr> <td>  <b> le contenue </b> </td><td>   tous les verbes de la langue francaise<br> les tableaux modele<br> les regles de conjugaison             </td></tr>\n      \n\n        <caption>  <i> <b>  la conjugaison de bescherelle  </b></i>  </caption>\n     \n          </table>\n       \t\t \t</figure>\n               </div>\n\n         <div id=\"Dictionare2\">\n             \t\n         \t<figure>\n       \t<img  src=\"images/l'essentiel.jpg\"width=\"220px\" height=\"296px\";>\n       \t<table>\n         \n        <tr><td>    </td></tr>\n        <tr>><td>   350        </td></tr>   <br>\n        \t \n        <tr><td>   <mark>  2200DA    </mark>    </td></tr>  <br>\n        <tr><td>   22  </td></tr>  <br>\n         <tr> <td>    hatier      </td></tr>\n          <tr><td>  les règles les plus important dans la conjugaison, l'orthographe, grammaire,vocabulaire et les expressions    </td></tr>      \n\n          \t<caption> <i> <b> l'essentiel de bescherelle </b> </i> </caption>\n       \t</table>\n       \t   </figure>\n       \t  </div>\n\n           <div id=\"Dictionare3\">\n           \t<figure>\n           \t <img src=\"images/vocabulaire.jpg\"width=\"220px\" height=\"296px\";>\n           \t <br>\n           \t <br>\n           \n          <table>\n\n        <tr><td>  180 </td></tr>\n        <tr><td> <mark>1800DA   </mark>     </td></tr>  \n        <tr><td>   45   </td></tr>  \n         <tr><td>      Edif2000   </td></tr>\n\n\n\n  <tr> <td> tout pour enrichir son vocabulaire ,éviter les erreurs , retrouver le sens des mots         </td> </tr>\n  \n\n          <caption>  <i> <b> vocabulaire </b> </i> </caption>\n           </table>\n\n           </figure>\n       \t      </div>\n               </div>\n            </services >\n          </body><br>\n  \n \t   <div class =\"footer\">\n \t   \t<div class=\"footer-content\"> \n \t   \t     <h4> LOUDINI.Books </h4>\n \t   \t        <p> Welcome to my store, <br>which has a collection of wonderful books If you want to buy a book from my store, you must contact us. <br>I hope you enjoy shopping<br>\n           Designed and programmed by LOUDINI Souad<br> I am so proud of what I DID </br> </p>\n              <div class=\"footer-section links\">\n              \t<div id=\"Contact\"> </div>\n            <h5> contact us</h5>    \n                   <ul>\n                \t<li> <a href = https://www.facebook.com/ldn.souad/> FACEBOOK  </a> <br></li>\n                   <li>  <a href =\"https://www.instagram.com/?hl=fr\"> instagram </a> </li>\n                    <li>   <p> N° : 213 \\ 0123 456 789 <br> gmail : souad.llddnn@gmail.com </p> </li>\n                   </ul> \n                                \n         </div>  \n          </div>\n          </div>\n           </div>\n        </html>",
+			"file": "souad.html",
+			"file_size": 25545,
+			"file_write_time": 132433080280755664,
+			"settings":
+			{
+				"buffer_size": 20628,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.html",
+			"settings":
+			{
+				"buffer_size": 625,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.css",
+			"settings":
+			{
+				"buffer_size": 824,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title> registration  page</title>\n\t<meta charset=\"utf-8\">\n\t <link rel =\"stylesheet\" href=\"formulaire.css\">\n\t <script src=\"loudini.js\"></script>\n</head>\n <body>\n  <div class=\"wrapper\">\n    <h2>Register </h2>\n     <div id=\"error_message\"> </div>\n \n  <form id=\"myform\" onsubmit=\"return validation()\">\n  \t<div class =\"input_field\">\n  \t\t<input type=\"text\" placeholder=\"Name\" id=\"name\"> \n  \t</div>\n    <div class =\"input_field\">\n  \t\t<input type=\"text\" placeholder=\"Email\" id=\"email\"> \n  \t</div>\n  \t<div class =\"input_field\">\n  \t\t<input type=\"text\" placeholder=\"Phone\" id=\"phone\"> \n  \t</div>\n  \t<div class =\"input_field\">\n  \t\t<input type=\"text\" placeholder=\"Password\" id=\"password\"> \n  \t</div>\n    \n      <div class =\"input_field\">\n  \t\t<textarea id =\"message\" placeholder=\"Message\" > </textarea>\n     </div>\n     <div class=\"btn\">\n     \t  <input type =\"submit\">\n    </div>\n</form>\n </div>\n\n\n\n\n",
+			"file": "registration.html",
+			"file_size": 888,
+			"file_write_time": 132432765476879969,
+			"settings":
+			{
+				"buffer_size": 918,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "formulaire.css",
+			"settings":
+			{
+				"buffer_size": 1089,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "loudini.js",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Sublime Text 3/loudini.css",
+		"/E/Sublime Text 3/s3adi.html",
+		"/E/Sublime Text 3/index.html",
+		"/E/Sublime Text 3/style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "souad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20168,
+								20168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1976,
+								1976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "login.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "registration.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 918,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 175.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "formulaire.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1077,
+								1077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 707.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "loudini.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1110,
+								1110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "",
+	"project": "index.html",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
